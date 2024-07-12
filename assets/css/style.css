@@ -1,0 +1,60 @@
+*{
+    padding:0;
+    margin:0;
+}
+div {
+    padding: 10px;
+    background-color:black;
+}
+
+h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: lighter;
+    margin: 1.5rem 15rem;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 40px;
+    margin: 0rem 15rem;
+}
+
+img {
+    width: 50%;
+    
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.precio {
+    font-weight: lighter;
+    color: blue;
+}
+.header{
+    background-color: transparent;
+}
+
+.footer {
+    background-color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+.imagenTabla{
+    width: 60%;
+    text-align: right;
+    padding: 30px;
+}
+#Cafeteria{
+    background-image: url("../imgs/img6.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 90%;
+    height: 300px;
+}
+b{
+    color: red;
+}
